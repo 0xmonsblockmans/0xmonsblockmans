@@ -1,6 +1,6 @@
 <h1 align="center">Blockchain Engineer</h1>
 
-<img src="./github-profile.jpg" />
+<img src="./github-profile.png" />
 
 <p align="center">
   <div>
